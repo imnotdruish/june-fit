@@ -1,4 +1,7 @@
-# Mock Fitness web app to generate sets based on user input. This utilizes HTML, CSS, JavaScript on a React/Vite framework.
+# Gym Web App
+
+This page generates exercise sets based on user input. This utilizes HTML, CSS, JavaScript on a React/Vite framework.
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
